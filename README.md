@@ -26,6 +26,5 @@ Raspberry Pi - I have not worked with one before and I feel lke it would be a go
 - AI and Machine Learning
 - Competitive Programming
 - Reverse Engineering
-- Binary Exploition/Pwn
 - Backend Development
 - Robotics
