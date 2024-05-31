@@ -12,7 +12,7 @@ Python |   JS
 - VScode
 <h2>  Currently learning:</h2>
 
-![My Skills3](https://skillicons.dev/icons?i=tensorflow,java,raspberrypi)
+![My Skills3](https://skillicons.dev/icons?i=tensorflow,raspberrypi)
 <br/><br/>
 Tensorflow - Tensorflow is an AI and Machine learning framework
 <br/><br/>
