@@ -1,10 +1,11 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Akhil353&theme=transparent&show_icons=true)
-<h2>Skills:</h2>
+# Skills:
 <h3 align="left">Programming Languages:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=py)
+![My Skills](https://skillicons.dev/icons?i=py,java)
 
-Python
+- Python
+- Java
 
 <h3 align="left">Tools:</h3>
 
@@ -12,8 +13,10 @@ Python
 - VScode
 - Tensorflow
 
-# Interests:
-- Machine Learning
-- Competitive Programming
-- Backend Development
-- Robotics
+
+
+# Projects:
+- [Machine Learning]()
+- [Neural Networks]()
+- [Car Pi](https://github.com/Akhil353/CarPi)
+- [Group Frontend/Backend Development](https://github.com/orgs/CSA-Coders-2025/teams/period-3-student-group-management/repositories)
